@@ -5,7 +5,9 @@ An E-commerce store wants to create an annual sales report for 2024, so the owne
 
 ## Questions (KPIs):
 • Compare the sales and orders using single chart.
+
 • Which month got the highest sales and orders?
+
 • Who purchased more - Men or Women?
 • What are different order status in 2024?
 • List top 10 states contributing to the sales.
