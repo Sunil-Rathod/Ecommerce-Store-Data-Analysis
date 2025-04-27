@@ -37,7 +37,8 @@ An E-commerce store wants to create an annual sales report for 2024, so the owne
 
 ## Dashboard:
 
-<a href="https://github.com/Sunil-Rathod/Ecommerce-Store-Data-Analysis/blob/main/Ecommerce%20Store%20Annual%20Sales%20Report%202024%20Dashboard.png"></a>
+![Ecommerce Store Annual Sales Report 2024 Dashboard](https://github.com/user-attachments/assets/9ad345a5-6db7-4f2d-aa26-8033b444bf1d)
+
 
 ## Project Insights:
 
