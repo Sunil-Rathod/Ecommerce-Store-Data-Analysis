@@ -1,4 +1,4 @@
-# Ecommerce Store Annual Sales Report 2024 (Interactive Dashboard using MS Excel)
+# Ecommerce Store Annual Sales Report (Interactive Dashboard using MS Excel)
 
 ## Project Objective:
 An E-commerce store wants to create an annual sales report for 2024, so the owner can better understand their customers and grow sales in 2025.
