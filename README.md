@@ -3,6 +3,9 @@
 ## Project Objective:
 An E-commerce store wants to create an annual sales report for 2024, so the owner can better understand their customers and grow sales in 2025.
 
+## Dataset used:
+<a href="https://github.com/Sunil-Rathod/Ecommerce-Store-Data-Analysis/blob/main/Ecommerce%20Store%20Data%20Analysis.xlsx">Dataset</a>
+
 ## Questions (KPIs):
 • Compare the sales and orders using single chart.
 
@@ -12,7 +15,7 @@ An E-commerce store wants to create an annual sales report for 2024, so the owne
 
 • What are different order status in 2024?
 
-• List top 10 states contributing to the sales.
+• List top 5 states contributing to the sales.
 
 • Relation between age and gender based on number of orders.
 
